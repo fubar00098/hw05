@@ -1,0 +1,82 @@
+body {
+    background: url(1.jpg);
+    text-align: center;
+}
+
+.col {
+    width: 25%;
+    height: 400px;
+    background-color: #fffbfb;
+    display: inline-block;
+    margin: 50px 6px;
+}
+
+.price-box {
+    width: 100%;
+    height: 200px;
+    background-color: rgba(10, 15, 59, 0.83);
+    color: white;
+}
+
+.plan-text {
+    text-align: center;
+    padding: 18px 0px;
+    font-size: 2opx;
+}
+
+.price-text * {
+    display: inline-block;
+}
+
+.price-text {
+    text-align: center;
+}
+
+.amount {
+    font-size: 50px;
+}
+
+.dollar {
+    vertical-align: top;
+    padding top: 8px;
+}
+
+.btn-box {
+    text-align: center;
+    border: 2px solid white;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 6px 0px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+
+.icon-text{
+    font-size: 14px;
+    line-height: 9px;
+    margin: 8px 95px;
+    color: #767368;
+    text-align:justify;
+         
+}
+
+.fa-fire-extinguisher{
+    padding: 12px 0px;
+    border-bottom: .1px solid #9f9d99;   
+    
+}
+.fa-rocket{
+    padding: 12px 0px;
+    border-bottom: .1px solid #9f9d99;   
+   
+
+}
+.fa-cog{
+    padding: 12px 0px;
+     border-bottom: .1px solid #9f9d99;   
+}
+.fa-youtube-play{
+    padding: 12px 0px;
+     
+}
